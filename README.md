@@ -1,2 +1,5 @@
-# blog
-Personal blog
+# My blog
+
+Personal blog generated with [Hugo](https://github.com/gohugoio/hugo)
+
+Read the [blog](http://lunlightup.dev)
