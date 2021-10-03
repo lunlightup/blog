@@ -2,7 +2,7 @@ baseURL = "https://lunlightup.github.io/"
 languageCode = "en-us"
 title = "Lubov Kozlova"
 theme = "minimal"
-disqusShortname = "https-lunlightup-github-io-1"
+disqusShortname = "https-lunlightup-github-io"
 googleAnalytics = ""
 
 [params]
@@ -16,6 +16,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    favicon = 'static/favicon.ico'
 
 [[menu.main]]
     url = "/"
