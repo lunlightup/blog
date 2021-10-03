@@ -1,5 +1,5 @@
 ---
-author: Любовь Козлова
+author: Любовь Вашпанова
 title: Курс "Understanding TypeScript" от Udemy
 date: 2021-09-27
 images: ["udemy-typescript.jpg"]
