@@ -11,7 +11,7 @@ resources:
   src: udemy-typescript.jpg
 ---
 
-![TypeScript certificate](udemy-typescript-cert.jpg "TypeScript certificate")
+![TypeScript certificate](udemy-typescript-certificate.jpg "TypeScript certificate")
 
 
 Привет! 
