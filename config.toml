@@ -16,7 +16,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    favicon = 'static/favicon.ico'
+    favicon = 'favicon.ico'
 
 [[menu.main]]
     url = "/"
