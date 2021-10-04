@@ -6,9 +6,6 @@ images: ["udemy-typescript.jpg"]
 description: Оценка, рекомендации
 tags: [    "typescript", "course" ]
 categories: [    "typescript", "course"]
-resources:
-- name: header
-  src: udemy-typescript.jpg
 ---
 
 ![TypeScript certificate](udemy-typescript-certificate.jpg "TypeScript certificate")
