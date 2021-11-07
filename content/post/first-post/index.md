@@ -4,8 +4,8 @@ title: Курс "Understanding TypeScript" от Udemy
 date: 2021-09-27
 images: ["udemy-typescript.jpg"]
 description: Оценка, рекомендации
-tags: [    "typescript", "course" ]
-categories: [    "typescript", "course"]
+tags: ["typescript", "course"]
+categories: ["typescript", "course"]
 ---
 
 ![TypeScript certificate](udemy-typescript-certificate.jpg "TypeScript certificate")

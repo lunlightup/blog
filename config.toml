@@ -7,9 +7,9 @@ googleAnalytics = "G-65MWQD5LL1"
 
 [params]
     author = "Любовь Вашпанова"
-    description = "Блог о программировании"
+    description = "Блог о программировании, тайм-менеджменте и гибких технологиях разработки"
     githubUsername = "#"
-    accent = "orange"
+    accent = "#94706B"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -17,7 +17,7 @@ googleAnalytics = "G-65MWQD5LL1"
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     favicon = 'favicon.ico'
-    profilePic = 'images/avatar.jpg'
+    profilePic = 'images/avatar_v2.jpg'
     css = ["css/custom.css"]
 
 [[menu.main]]
