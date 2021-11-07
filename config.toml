@@ -16,7 +16,7 @@ googleAnalytics = "G-65MWQD5LL1"
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    favicon = 'favicon.ico'
+    favicon = 'favicon.png'
     profilePic = 'images/avatar_v2.jpg'
     css = ["css/custom.css"]
 
